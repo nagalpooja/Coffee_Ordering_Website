@@ -1,5 +1,5 @@
-Coffee Ordering Website 
- Welcome to the Coffee Ordering Website! This is a web application designed to provide a seamless coffee ordering experience for customers. Users can browse a menu, customize 
+Brew Haven - A Coffee Ordering Website 
+Welcome to the Coffee Ordering Website! This is a web application designed to provide a seamless coffee ordering experience for customers. Users can browse a menu, customize 
  their drinks and place orders.
 
 #Features
